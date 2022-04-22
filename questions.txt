@@ -1,0 +1,24 @@
+Who is the current president of India?
+Narendra Modi
+Ram Nath Kovind
+Christian Horner
+Cyril Abiteboul
+B
+Who is the World's greatest Formula 1 driver?
+Vettel
+Hamilton
+Mazepin
+Schumacher
+A
+What is the capital of Utah?
+Salt lake city
+Colorado
+Denver
+NYC
+A
+Who built Python?
+Toto Wolff
+Guido Rossum
+Guenther Steiner
+James Gosling
+B
